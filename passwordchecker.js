@@ -1,5 +1,5 @@
 let password;
-password = "Onenightst";
+password = "Onenightstand22";
 if(password == "Onenightstand22") {
     console.log("Access Granted");
 } else {
