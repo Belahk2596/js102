@@ -9,7 +9,6 @@ function ask() {
   } else if (choice == "time") {
     alert("The current time: " + time);
   } else {
-    // Handle invalid input
     alert("Invalid choice. Please enter 'date' or 'time'.");
   }
 }
